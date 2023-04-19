@@ -42,11 +42,11 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/GOKULBS0023/age-calculator-frontend-mentor.git)
+- Live Site URL: [Add live site URL here](https://age-calculator-frontend-mentor.netlify.app/)
 
 ## My process
-  Tried first time to create this website by SCSS using the node modules.
+  Tried first time to create the website by SCSS using the node modules on my own.
   It took more time to create a functions on the Java Script. 
 ### Built with
 

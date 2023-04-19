@@ -1,0 +1,39 @@
+// Color Variables
+$color-primary : #854dff;
+$color-secondary: #ff5757;
+
+$color-white: #ffffff;
+$color-off-white: #f0f0f0;
+$color-light-grey: #dbdbdb;
+$color-smokey-grey: #716f6f;
+$color-off-black: #141414;
+
+*, *::after, *::before{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html{
+    font-size: 62.5%;
+    @media only screen and (max-width: 900px) {
+        font-size: 50%;   
+    }
+    @media only screen and (max-width: 600px) {
+        font-size: 44%;   
+    }
+}
+
+
+body{
+    background-color: $color-off-white;
+    font-family: 'Poppins', sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+hr{
+    border: none;
+    height: .5px;
+    background-color: rgba($color-smokey-grey, .5);
+}
